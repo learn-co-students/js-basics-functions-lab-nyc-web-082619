@@ -60,3 +60,4 @@ describe('index.js', function() {
     });
   });
 });
+
